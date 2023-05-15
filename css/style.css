@@ -1,0 +1,56 @@
+nav {
+    position: fixed;
+    z-index: 100;
+}
+
+.home {
+    margin-top: 10%;
+    display: flex;
+}
+
+.textHome {
+    margin-left: 20%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.textCard {
+    padding-top: 2%;
+    padding-bottom: 1%;
+    margin-top: 5%;
+}
+
+.textCard p {
+    text-align: center;
+}
+
+.about {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.about img {
+    height: 200px;
+}
+
+.about h5 {
+    font-size: 230%;
+}
+
+.better {
+    display: flex;
+    margin-top: 5%;
+    
+}
+
+.end {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 5%;
+}
+
+.end p {
+    color: white;
+    text-align: center;
+}
