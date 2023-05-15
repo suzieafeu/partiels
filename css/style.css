@@ -3,6 +3,12 @@ nav {
     z-index: 100;
 }
 
+.van {
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 70%;
+}
+
 .home {
     margin-top: 10%;
     display: flex;
@@ -40,8 +46,8 @@ nav {
 
 .better {
     display: flex;
+    justify-content: space-evenly;
     margin-top: 5%;
-    
 }
 
 .citation {
