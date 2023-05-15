@@ -44,10 +44,36 @@ nav {
     
 }
 
+.citation {
+    background-color: rgb(243, 243, 243);
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    margin-top: 5%;
+}
+
+.citation h4 {
+    font-size: 100%;
+}
+
+.little {
+    display: flex;
+    justify-content: center;
+    padding-top: 1%;
+}
+
+.little img {
+    height: 1%;
+    width: 1%;
+}
+
+.little p {
+    font-weight: bold;
+}
+
 .end {
     padding-top: 2%;
     padding-bottom: 2%;
-    margin-top: 5%;
 }
 
 .end p {
